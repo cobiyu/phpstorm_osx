@@ -14,6 +14,18 @@
           <option name="url" value="https://cobiyu@bitbucket.org/cobiyu/adico.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@dev-gitlab.gabia.com:cobiyu/cobiyu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-gitlab.gabia.com/cobiyu/cobiyu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev-gitlab.gabia.com" />
+          <option name="userName" value="cobiyu" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/workspace" />
