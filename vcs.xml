@@ -26,6 +26,14 @@
           <option name="url" value="http://dev-gitlab.gabia.com" />
           <option name="userName" value="cobiyu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:cobiyu/Laravel-Redis-Admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cobiyu/Laravel-Redis-Admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/workspace" />
